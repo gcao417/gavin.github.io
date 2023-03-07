@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import CV from "./Gavin Cao.pdf";
 
@@ -9,7 +8,12 @@ function App() {
       <div className="Container">
         <div className="title">Hey! It's me! Gavin!</div>
 
-        <a href={CV} target="_blank" rel="noopener noreferrer" download>
+        <a
+          href={CV}
+          target="_blank"
+          rel="noopener noreferrer"
+          download={"Gavin Cao.pdf"}
+        >
           Download My CV
         </a>
 
