@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="Container">
-        <div className="title">Hey! It's me! Gavin!</div>
+        <b className="title">Hey! It's me! Gavin!</b>
 
         <a
           href={CV}
@@ -40,6 +40,29 @@ function App() {
         >
           Email Me
         </a>
+
+        <div style={{ marginTop: 20 }}>Mobile App</div>
+        <div className="mobileOptionContainer">
+          <a
+            className="mobileOption"
+            href="https://play.google.com/store/apps/details?id=com.amillionstar.popfilm&hl=en&gl=US"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Android
+          </a>
+
+          <a
+            className="mobileOption"
+            // href=""
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            IOS
+            <br />
+            (not yet)
+          </a>
+        </div>
       </div>
     </div>
   );
