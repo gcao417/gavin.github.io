@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "06784d53e60a005d3405",
-    "url": "/gavin.github.io/static/css/main.4fee8889.chunk.css"
+    "revision": "b381180ee600e7dc3e6c",
+    "url": "/gavin.github.io/static/css/main.9786ea71.chunk.css"
   },
   {
-    "revision": "06784d53e60a005d3405",
-    "url": "/gavin.github.io/static/js/main.06784d53.chunk.js"
+    "revision": "b381180ee600e7dc3e6c",
+    "url": "/gavin.github.io/static/js/main.b381180e.chunk.js"
   },
   {
     "revision": "3c11774c00c8fe3168dd",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/gavin.github.io/static/media/Gavin Cao.881bdeae.pdf"
   },
   {
-    "revision": "2c9c0bef6c2143c6b682aeaf78b8f321",
+    "revision": "c280d0a83ca6c539b78fcf6cf11517f5",
     "url": "/gavin.github.io/index.html"
   }
 ];
