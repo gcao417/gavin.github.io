@@ -54,13 +54,11 @@ function App() {
 
           <a
             className="mobileOption"
-            // href=""
+            href="https://apps.apple.com/nz/app/popfilm/id6446820250"
             target="_blank"
             rel="noopener noreferrer"
           >
             IOS
-            <br />
-            (not yet)
           </a>
         </div>
       </div>
