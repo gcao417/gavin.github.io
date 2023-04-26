@@ -32,10 +32,10 @@
 .mobileOptionContainer {
   width: 100%;
   display: flex;
+  justify-content: space-between;
 }
 
 .mobileOption {
-  width: 50%;
   text-align: center;
   align-self: center;
 }

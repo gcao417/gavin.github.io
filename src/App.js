@@ -41,25 +41,27 @@ function App() {
           Email Me
         </a>
 
-        <div style={{ marginTop: 20 }}>Mobile App</div>
-        <div className="mobileOptionContainer">
-          <a
-            className="mobileOption"
-            href="https://play.google.com/store/apps/details?id=com.amillionstar.popfilm&hl=en&gl=US"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Android
-          </a>
+        <div>
+          <div style={{ marginTop: 20 }}>Mobile App: Popfilm</div>
+          <div className="mobileOptionContainer">
+            <a
+              className="mobileOption"
+              href="https://play.google.com/store/apps/details?id=com.amillionstar.popfilm&hl=en&gl=US"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Android
+            </a>
 
-          <a
-            className="mobileOption"
-            href="https://apps.apple.com/nz/app/popfilm/id6446820250"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            IOS
-          </a>
+            <a
+              className="mobileOption"
+              href="https://apps.apple.com/nz/app/popfilm/id6446820250"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              IOS
+            </a>
+          </div>
         </div>
       </div>
     </div>
