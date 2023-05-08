@@ -64,9 +64,9 @@ function App() {
           </div>
         </div>
 
-        {/* <a href="BlackJack" rel="noopener noreferrer">
+        <a href="#/BlackJack" rel="noopener noreferrer">
           🃏
-        </a> */}
+        </a>
       </div>
     </div>
   );
