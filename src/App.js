@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import CV from "./Gavin Cao.pdf";
+import CV from "./Assets/Gavin Cao.pdf";
 
 function App() {
   return (
@@ -63,6 +63,10 @@ function App() {
             </a>
           </div>
         </div>
+
+        <a href="BlackJack" rel="noopener noreferrer">
+          🃏
+        </a>
       </div>
     </div>
   );
@@ -72,4 +76,4 @@ export default App;
 
 // npm run deploy
 // npm start
-// type rfc+enter to create template for js file
+// type rfce+enter to create template for js file
