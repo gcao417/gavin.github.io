@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c6c1e54ba0cec8549351",
+    "revision": "c1f03c1b31df7331a708",
     "url": "/gavin.github.io/static/css/main.53392047.chunk.css"
   },
   {
-    "revision": "c6c1e54ba0cec8549351",
-    "url": "/gavin.github.io/static/js/main.c6c1e54b.chunk.js"
+    "revision": "c1f03c1b31df7331a708",
+    "url": "/gavin.github.io/static/js/main.c1f03c1b.chunk.js"
   },
   {
     "revision": "2074423f1ea920086600",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/gavin.github.io/static/js/runtime~main.867f2b94.js"
   },
   {
-    "revision": "5b1508762f69e5b60305d0b708bfb909",
-    "url": "/gavin.github.io/static/media/Gavin Cao.5b150876.pdf"
+    "revision": "8192a59d6d70a7fd55b9e51687a1d70f",
+    "url": "/gavin.github.io/static/media/Gavin Cao.8192a59d.pdf"
   },
   {
     "revision": "c29b28f3eceb7284d141163e3bd37736",
@@ -244,7 +244,7 @@ self.__precacheManifest = [
     "url": "/gavin.github.io/static/media/joker_red.032874af.png"
   },
   {
-    "revision": "5ebb932a53e37ce0c4382f3b86c22805",
+    "revision": "381660e89af572f90309073c3dd8ec2c",
     "url": "/gavin.github.io/index.html"
   }
 ];
